@@ -1,0 +1,21 @@
+BayerLeverkusen 90 - Qualified
+Stuttgart 73 - Qualified
+BayernMunich 72 - Qualified
+Leipzig 65 - Qualified
+BorussiaDortmund 63
+Frankfurt 47
+Hoffenheim 46
+Heidenheim 42
+WerderBremen 42
+Freiburg 42
+Augsburg 39
+Wolfsburg 37
+Mainz05 35
+BorussiaMönchengladbach 34
+UnionBerlin 33
+Bochum 33 - Relegated
+Köln 27 - Relegated
+Darmstadt98 17 - Relegated
+
+Highest point: 90
+Lowest point: 17

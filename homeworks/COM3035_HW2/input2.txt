@@ -1,0 +1,21 @@
+18
+4
+3
+Heidenheim 10 12 12 50 55
+Köln 5 12 17 28 60
+UnionBerlin 9 6 19 33 58
+Mainz05 7 14 13 39 51
+BayerLeverkusen 28 6 0 89 24
+BayernMunich 23 3 8 94 45
+BorussiaDortmund 18 9 7 68 43
+BorussiaMönchengladbach 7 13 14 56 67
+Frankfurt 11 14 9 51 50
+Augsburg 10 9 15 50 60
+Leipzig 19 8 7 77 39
+Freiburg 11 9 14 45 58
+Darmstadt98 3 8 23 30 86
+Hoffenheim 13 7 14 66 66
+Stuttgart 23 4 7 78 39
+Bochum 7 12 15 42 74
+Wolfsburg 10 7 17 41 56
+WerderBremen 11 9 14 48 54

@@ -1,0 +1,15 @@
+12
+1
+1
+Aberdeen 11 10 17 42 65
+Celtic 30 5 3 95 30
+Dundee 8 13 17 35 62
+Hearts 19 8 11 60 45
+Hibernian 12 11 15 48 58
+Kilmarnock 16 9 13 52 50
+Livingston 5 8 25 28 85
+Motherwell 10 12 16 40 60
+Rangers 28 6 4 88 32
+RossCounty 8 9 21 38 70
+St.Johnstone 7 10 21 30 68
+St.Mirren 14 10 14 45 55
